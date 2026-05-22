@@ -1,0 +1,35 @@
+# --- Caché de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Entornos Virtuales locales ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Configuraciones de editores  ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+
+# --- Archivos del sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Carpetas de distribución / construcción ---
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
